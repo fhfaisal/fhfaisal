@@ -1,7 +1,7 @@
 - 👋 Hi, I’m faisal
-- 👀 I’m interested in app development
+- 👀 I’m interested in flutter app development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter project
+- 💞️ I’m looking to collaborate on the flutter project
 - 📫 How to reach me - fhfaisallll@gmail.com
 
 <!---
